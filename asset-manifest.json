@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/resort/static/css/main.9add018f.chunk.css",
+    "main.js": "/resort/static/js/main.892aa3a9.chunk.js",
+    "main.js.map": "/resort/static/js/main.892aa3a9.chunk.js.map",
+    "runtime-main.js": "/resort/static/js/runtime-main.3e8f391f.js",
+    "runtime-main.js.map": "/resort/static/js/runtime-main.3e8f391f.js.map",
+    "static/js/2.6fa1adb5.chunk.js": "/resort/static/js/2.6fa1adb5.chunk.js",
+    "static/js/2.6fa1adb5.chunk.js.map": "/resort/static/js/2.6fa1adb5.chunk.js.map",
+    "index.html": "/resort/index.html",
+    "static/css/main.9add018f.chunk.css.map": "/resort/static/css/main.9add018f.chunk.css.map",
+    "static/js/2.6fa1adb5.chunk.js.LICENSE.txt": "/resort/static/js/2.6fa1adb5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/resort/static/media/room-2.48c60181.jpeg",
+    "static/media/details-1.c4851740.jpeg": "/resort/static/media/details-1.c4851740.jpeg",
+    "static/media/details-2.dc89255d.jpeg": "/resort/static/media/details-2.dc89255d.jpeg",
+    "static/media/details-3.f525a3c8.jpeg": "/resort/static/media/details-3.f525a3c8.jpeg",
+    "static/media/details-4.f2053654.jpeg": "/resort/static/media/details-4.f2053654.jpeg",
+    "static/media/loading-arrow.dd29210f.gif": "/resort/static/media/loading-arrow.dd29210f.gif",
+    "static/media/logo.87947b58.svg": "/resort/static/media/logo.87947b58.svg",
+    "static/media/room-1.05b90599.jpeg": "/resort/static/media/room-1.05b90599.jpeg",
+    "static/media/room-10.681615dc.jpeg": "/resort/static/media/room-10.681615dc.jpeg",
+    "static/media/room-11.1605f19e.jpeg": "/resort/static/media/room-11.1605f19e.jpeg",
+    "static/media/room-12.7dee4920.jpeg": "/resort/static/media/room-12.7dee4920.jpeg",
+    "static/media/room-3.92fc5b83.jpeg": "/resort/static/media/room-3.92fc5b83.jpeg",
+    "static/media/room-4.10d2e64a.jpeg": "/resort/static/media/room-4.10d2e64a.jpeg",
+    "static/media/room-5.a7c5e078.jpeg": "/resort/static/media/room-5.a7c5e078.jpeg",
+    "static/media/room-6.3697aea3.jpeg": "/resort/static/media/room-6.3697aea3.jpeg",
+    "static/media/room-7.d2c011f0.jpeg": "/resort/static/media/room-7.d2c011f0.jpeg",
+    "static/media/room-8.5b658df9.jpeg": "/resort/static/media/room-8.5b658df9.jpeg",
+    "static/media/room-9.18aabe9f.jpeg": "/resort/static/media/room-9.18aabe9f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e8f391f.js",
+    "static/js/2.6fa1adb5.chunk.js",
+    "static/css/main.9add018f.chunk.css",
+    "static/js/main.892aa3a9.chunk.js"
+  ]
+}
